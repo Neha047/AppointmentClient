@@ -1,0 +1,12 @@
+{
+    "AWSEBDockerrunVersion": "1",
+    "Image": {
+    "Name": "982256988976.dkr.ecr.us-east-1.amazonaws.com/appointmentclient:latest"   
+    },
+    "Ports": [
+        {
+            "ContainerPort": "8083"
+            
+        }
+    ]
+}
